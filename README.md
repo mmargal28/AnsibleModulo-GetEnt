@@ -95,7 +95,4 @@ Este playbook consulta datos de usuarios y grupos y muestra los resultados:
 ![image](https://github.com/user-attachments/assets/f7678f94-9d03-4345-997c-f716a7b48474)
 
 
-## Conclusión
-El módulo `getent` en Ansible permite recuperar información del sistema de manera dinámica. Es especialmente útil para auditorías, validación de configuraciones y gestión de accesos de forma dinámica.
-
 
