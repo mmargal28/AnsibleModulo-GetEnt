@@ -1,4 +1,3 @@
-# AnsibleModulo-GetEnt
 # Documentación del Módulo Getent en Ansible
 
 ## Introducción
